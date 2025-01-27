@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('../image/7065151.jpg') no-repeat center center fixed;
+    background-size: 100px 100px;
+    margin: 0;
+    padding: 0;
+}
+.todo-container {
+    max-width: 500px;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(5px);
+}
+.btn-success {
+    font-weight: bold;
+}
+.input-group-text {
+    background-color: #f8f9fa;
+    border-right: 0;
+}
+.form-control {
+    border-left: 0;
+}
+.form-label {
+    font-weight: bold;
+    color: #333;
+}
+.btn-primary {
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+}
+.btn-primary:hover {
+    background-color: #0056b3;
+}
