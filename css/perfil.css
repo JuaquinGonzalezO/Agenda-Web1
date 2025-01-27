@@ -1,0 +1,13 @@
+.icon-black {
+    color: black;
+}
+.img-achicada{
+    width: 8%;
+    height:  auto;
+ }
+ body {
+    background-image: url('../image/perfil.jpg'); 
+    background-size: cover; 
+    background-position: center;  
+    font-family: Arial;
+}
